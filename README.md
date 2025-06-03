@@ -1,1 +1,1 @@
-https://github.com/educateurself/Quizapp.git # Quizapp
+https://github.com/educateurself/Quizapp # Quizapp
