@@ -1,3 +1,3 @@
 ## Proyecto
 
-Repositorio: [Quizapp](https://github.com/educateurself/Quizapp)
+Repositorio: [Quizapp]https://educateurself.github.io/Quizapp
